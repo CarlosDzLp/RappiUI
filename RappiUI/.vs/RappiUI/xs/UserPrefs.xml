@@ -1,17 +1,14 @@
 ﻿<Properties StartupConfiguration="{9DC2E947-75C4-49C0-8CC7-931A1C3BBD82}|Default">
-  <MonoDevelop.Ide.ItemProperties.RappiUI.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RappiUI/ViewModels/MasterPageViewModel.cs">
-    <Files>
-      <File FileName="RappiUI/Views/MasterPage.xaml" Line="82" Column="62" />
-      <File FileName="RappiUI/Views/MasterPage.xaml.cs" Line="55" Column="1" />
-      <File FileName="RappiUI/ViewModels/MasterPageViewModel.cs" Line="79" Column="29" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.RappiUI.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.R58M71K1VLF" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RappiUI" expanded="True">
             <Node name="RappiUI" expanded="True">
-              <Node name="Models" expanded="True" />
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
               <Node name="ViewModels" expanded="True">
                 <Node name="MasterPageViewModel.cs" selected="True" />
               </Node>
@@ -34,9 +31,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/carlosdiazlopez/RappiUI/RappiUI/RappiUI/Views/MasterPage.xaml.cs" relfile="RappiUI/Views/MasterPage.xaml.cs" line="35" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
