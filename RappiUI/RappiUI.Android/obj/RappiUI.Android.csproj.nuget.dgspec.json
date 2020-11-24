@@ -42,7 +42,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1451, )"
+              "version": "[4.8.0.1687, )"
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",
@@ -102,7 +102,7 @@
             },
             "Xamarin.Forms": {
               "target": "Package",
-              "version": "[4.8.0.1451, )"
+              "version": "[4.8.0.1687, )"
             },
             "Xamarin.Forms.PancakeView": {
               "target": "Package",
@@ -119,7 +119,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/Users/carlosdiazlopez/Library/Caches/VisualStudio/8.0/MSBuild/1184_1/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

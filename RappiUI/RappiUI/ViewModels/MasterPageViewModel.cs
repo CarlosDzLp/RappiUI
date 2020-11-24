@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using RappiUI.Models;
 using Xamarin.Forms;
@@ -9,6 +10,7 @@ namespace RappiUI.ViewModels
     {
         #region Properties
         public ObservableCollection<CategoryModel> ListCategory { get; set; }
+        public ObservableCollection<ProductGroup> ListProductGroup { get; set; }
         #endregion
 
         #region Constrcutor
@@ -57,7 +59,7 @@ namespace RappiUI.ViewModels
                 ListCategory.Add(new CategoryModel
                 {
                     Id = 5,
-                    Name = "Tacos",
+                    Name = "Tacosa",
                     Shadow = new Xamarin.Forms.PancakeView.DropShadow() { Color = Color.White, Offset = new Point(0, 0) }
                 });
             }
@@ -74,7 +76,26 @@ namespace RappiUI.ViewModels
         {
             try
             {
-
+                int Id = 10;
+                ListProductGroup = new ObservableCollection<ProductGroup>();
+                ListProductGroup.Clear();
+                foreach (var itemCat in ListCategory)
+                {
+                    var listpro = new List<ProductModel>();
+                    for (var i = 0;i<6;i++)
+                    {
+                        listpro.Add(new ProductModel
+                        {
+                            Id = Id,
+                            Name = "Nombre" + Id,
+                            Description = "Descripcion" + Id,
+                            Price = 10,
+                            Url = "hamburguer"
+                        });
+                    }                                    
+                    ListProductGroup.Add(new ProductGroup(itemCat.Id, itemCat.Name, listpro));
+                    Id++;
+                }
             }
             catch(Exception ex)
             {

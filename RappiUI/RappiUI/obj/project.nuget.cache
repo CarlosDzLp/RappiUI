@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZX0+DczCmiuYKjvJEtG8I60TFbfmiUWk5pLtSTH7DeW3Bzo1eOEqvqH0JkEjNGfcvI1iAp9Q0jnGjANNk2GFAg==",
+  "dgSpecHash": "+bQ/T6oz3/dK/TGMpR7lVb0LqOWOoIaVorX/5xwaSVNSdBc0k88lPuNs+6ynNrYbnH5XjmFfwr3pQXMx/Dq5Zg==",
   "success": true,
   "projectFilePath": "/Users/carlosdiazlopez/RappiUI/RappiUI/RappiUI/RappiUI.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,7 @@
     "/Users/carlosdiazlopez/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
   ],
   "logs": []

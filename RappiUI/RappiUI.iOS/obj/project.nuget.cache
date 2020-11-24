@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4kKaa/D0RV89opu3WIrRW8eQFdu3+XOBc4CcgP9eCexk+0NAi7/hiKm69HbWqf7BH751KUQqsRpDGI91Pn9LZA==",
+  "dgSpecHash": "0exCmwKZUCJCwYARDjZ1O4LAYaNH8lD0tEeSUt60cDiBd3JQIDWb+cxEyEJD/Od7PCr8GF0C6kLuSiFueWsqLQ==",
   "success": true,
   "projectFilePath": "/Users/carlosdiazlopez/RappiUI/RappiUI/RappiUI.iOS/RappiUI.iOS.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "/Users/carlosdiazlopez/.nuget/packages/propertychanged.fody/3.3.1/propertychanged.fody.3.3.1.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
+    "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms/4.8.0.1687/xamarin.forms.4.8.0.1687.nupkg.sha512",
     "/Users/carlosdiazlopez/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
   ],
   "logs": []
