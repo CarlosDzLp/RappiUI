@@ -28,7 +28,7 @@ namespace RappiUI.Views
 
                     var itemgroup = vm.ListProductGroup.Where(c => c.IdCat == item.Id).FirstOrDefault();
                     var itemproduct = itemgroup.FirstOrDefault();
-                    collectionViewVertical.ScrollTo(itemproduct, position: ScrollToPosition.Start, animate: true);
+                    collectionViewVertical.ScrollTo(itemproduct, itemgroup,position: ScrollToPosition.Start, animate: true);
                 }
             }
             catch(Exception ex)
